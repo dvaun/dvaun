@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is David. I'm a programmer, young father, and avid reader.
+
+- 🔭 I'm currently working on [my personal website](https://www.dvaun.com/), the [Police Data Accessibility Project](https://github.com/Police-Data-Accessibility-Project), and starting a community project for [Subreply.com](https://subreply.com/) titled [**Metareply.net**](https://metareply.net/).
+
+- 📫 How to reach me:
+  - Questions and email: [david@dvaun.com](mailto:david@dvaun.com)
+  - Social: [dvaun on Subreply](https://subreply.com/dvaun)
+  - Professional: [dvaun on LinkedIn](https://www.linkedin.com/in/dvaun)
 
 <!--
 **dvaun/dvaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
